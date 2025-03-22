@@ -284,6 +284,9 @@ h2 {
     margin-bottom: 2rem;
 }
 
+
+
+
 .sticky {
     position: sticky;
     background-color: #fff;
@@ -399,6 +402,14 @@ h2 {
 
 .reading-subhead {
     margin: 2rem 0 0.5rem;
+}
+
+.bigml {
+    font-size: 3rem;
+}
+
+.smallml {
+    font-size: 2.5rem;
 }
 
 @media (max-width: 500px) {
