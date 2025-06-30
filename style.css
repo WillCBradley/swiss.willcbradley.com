@@ -50,6 +50,12 @@ h2 {
     scroll-margin-top: 10rem;
 }
 
+p {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    margin-left: 0;
+}
+
 .body-container {
     width: 90%;
     margin: 0 auto;
