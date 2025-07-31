@@ -50,10 +50,28 @@ h2 {
     scroll-margin-top: 10rem;
 }
 
+li {
+    font-size: 1.1rem;
+}
+
 p {
     font-size: 1.1rem;
     margin-bottom: 1rem;
     margin-left: 0;
+}
+
+ul {
+    margin-bottom: 1rem;
+}
+
+ul li {
+    margin-inline-start: 19px;
+    margin-bottom: 1rem;
+}
+
+ul ul li {
+    margin-bottom: 0;
+    margin-inline-start: 50px;
 }
 
 .body-container {
